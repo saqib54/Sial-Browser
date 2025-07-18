@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sial Browser</string>
+    <string name="app_logo">Sial Browser Logo</string>
+    <string name="welcome_to_sial">Welcome to Sial Browser</string>
+    <string name="slogan_text">Fast, Secure, Private</string>
+    <string name="copyright_text">© 2025 Sial Browser. All rights reserved.</string>
+</resources>
